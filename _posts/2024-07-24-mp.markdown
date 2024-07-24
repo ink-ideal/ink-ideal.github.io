@@ -11,6 +11,9 @@ tags:
 ---
 
 
+# 下载测试
+[Download www.jpg](/ROOT.zip)
+
 # 这是一篇链接文章
 
 ~~也不太是~~
@@ -20,6 +23,8 @@ tags:
 [普通链接](http://bejson.com/)
 
 [普通链接带标题](http://bejson.com/ "bejson在线工具")
+
+
 
 ### 代码块
 
