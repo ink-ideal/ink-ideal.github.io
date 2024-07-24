@@ -12,7 +12,7 @@ tags:
 
 
 # 下载测试
-[Download www.jpg](/ROOT.zip)
+[Download www.jpg](/File/ROOT.zip)
 
 # 这是一篇链接文章
 
